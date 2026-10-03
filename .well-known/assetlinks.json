@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.ullasankv_tech.twa",
-        "sha256_cert_fingerprints": ["E0:6D:37:05:D3:B0:7A:2F:0E:48:F1:9D:88:BB:15:3B:DC:50:33:52:92:D2:E2:07:87:C5:F0:17:E0:E4:AF:A3"]
+        "sha256_cert_fingerprints": [""]
       }
     }]
